@@ -28,6 +28,7 @@ h1{
     text-decoration: solid;
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 10px;
 }
 .active {
     background-color: green;
